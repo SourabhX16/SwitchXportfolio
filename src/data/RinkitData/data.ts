@@ -6,11 +6,11 @@ import { SiLeetcode } from "react-icons/si"
 import { MdOutlineMail } from "react-icons/md"
 import { SiBluesky } from "react-icons/si"
 
-const rinkitImage = "/assets/Images/pfps/mark.jpeg"
-const rinkitName = "Sourabh Patne"
-const rinkitShortName = "Sourabh"
-const rinkitBio = "Learner"
-const rinkitAbout = `
+const sourabhImage = "/assets/Images/pfps/mark.jpeg"
+const sourabhName = "Sourabh Patne"
+const sourabhShortName = "Sourabh"
+const sourabhBio = "Learner"
+const sourabhAbout = `
   <p>
     Hey! I'm Sourabh Patne, not a cracked one yet but soon to be one, cuz why not.
   </p>
@@ -22,7 +22,7 @@ const rinkitAbout = `
   </p>
 `
 
-const rinkitLink = [
+const sourabhLink = [
   {
     id: 1,
     name: "Github",
@@ -43,9 +43,9 @@ const rinkitLink = [
   },
 ]
 
-const rinkitContact =
+const sourabhContact =
   "Feel free to reach out to me via email or connect with me on GitHub and LinkedIn. Always open to collaborating on interesting projects!"
-const rinkitContactLink = [
+const sourabhContactLink = [
   {
     id: 1,
     name: "Twitter",
@@ -66,7 +66,7 @@ const rinkitContactLink = [
   },
 ]
 
-const rinkitFooterLink = [
+const sourabhFooterLink = [
   {
     id: 1,
     name: "Mail",
@@ -94,13 +94,13 @@ const rinkitFooterLink = [
 ]
 
 export {
-  rinkitImage,
-  rinkitBio,
-  rinkitContact,
-  rinkitContactLink,
-  rinkitName,
-  rinkitShortName,
-  rinkitAbout,
-  rinkitLink,
-  rinkitFooterLink,
+  sourabhImage,
+  sourabhBio,
+  sourabhContact,
+  sourabhContactLink,
+  sourabhName,
+  sourabhShortName,
+  sourabhAbout,
+  sourabhLink,
+  sourabhFooterLink,
 }
