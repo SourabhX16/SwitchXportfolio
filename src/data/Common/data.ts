@@ -69,7 +69,15 @@ const projects = [
   },
 ]
 
-const writings = []
+const writings = [
+  {
+    id: 1,
+    img: "/assets/Images/writing/hashnode.png",
+    head: "Check out my blog on Hashnode",
+    des: "Follow me on Hashnode for future articles and posts about web development, programming, and my learning journey.",
+    link: "https://hashnode.com/@SourabhX16",
+  },
+]
 const emailLink = "mailto:sourabhpatne@gmail.com?subject=Let's%20Collaborate"
 
 const navLinks = [
