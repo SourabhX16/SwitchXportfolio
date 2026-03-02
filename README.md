@@ -21,3 +21,9 @@
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **TypeScript**: Superset of JavaScript for better type safety.
 - **Motion**: For smooth and sleek animations.
+
+
+## Credits
+
+Based on [Switchfolio](https://github.com/rinkitadhana/switchfolio) by Rinkit Adhana  
+Licensed under MIT License
