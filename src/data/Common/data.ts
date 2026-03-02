@@ -117,8 +117,7 @@ const writings = [
 const hireText =
   "I’m currently available for internships, full-time opportunities, and freelance projects. If you’re looking for someone passionate, skilled, and ready to contribute, I’m here to help bring your ideas to life!"
 
-const emailLink =
-  "mailto:therinkit@gmail.com?subject=Interested%20in%20Hiring%20You"
+const emailLink = "mailto:sourabhpatne@gmail.com?subject=Let's%20Collaborate"
 
 const navLinks = [
   {
