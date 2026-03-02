@@ -1,6 +1,4 @@
-import { SiBuymeacoffee } from "react-icons/si"
-import { FaXTwitter, FaGithub, FaDiscord } from "react-icons/fa6"
-import { SiBluesky } from "react-icons/si"
+import { FaXTwitter, FaGithub } from "react-icons/fa6"
 
 const gruzImage = "/assets/Images/pfps/gruz.jpeg"
 const gruzName = "Sourabh"

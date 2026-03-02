@@ -2,7 +2,7 @@
 import { gruzAbout } from "@/data/GruzData/data"
 import SectionTitle from "../SectionTitle"
 import { useSwitch } from "../Context/SwitchContext"
-import { rinkitAbout } from "@/data/RinkitData/data"
+import { sourabhAbout } from "@/data/RinkitData/data"
 
 const AboutMe = () => {
   const { isSwitchOn } = useSwitch()
@@ -13,7 +13,7 @@ const AboutMe = () => {
       <div className="flex flex-col gap-2">
         <div
           dangerouslySetInnerHTML={{
-            __html: isSwitchOn ? gruzAbout : rinkitAbout,
+            __html: isSwitchOn ? gruzAbout : sourabhAbout,
           }}
           className="flex flex-col gap-1"
         />

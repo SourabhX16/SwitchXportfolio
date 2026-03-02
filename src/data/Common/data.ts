@@ -55,6 +55,7 @@ const projects = [
     url: "https://neuralplan.streamlit.app/",
     github: "https://github.com/Mikky-mlh/NeuralPlan",
     skill: ["Python", "Streamlit", "Gemini API", "Plotly", "Lottie"],
+    preview: "",
   },
   {
     id: 2,
@@ -66,6 +67,7 @@ const projects = [
     github: "https://github.com/SourabhX16/FaahBuzz",
     url: "https://sourabhx16.github.io/FaahBuzz/",
     skill: ["HTML", "CSS", "JavaScript"],
+    preview: "",
   },
 ]
 
@@ -78,6 +80,10 @@ const writings = [
     link: "https://hashnode.com/@SourabhX16",
   },
 ]
+
+const hireText =
+  "I'm currently learning and building projects. Open to collaborations, internships, and freelance opportunities. Let's create something amazing together!"
+
 const emailLink = "mailto:sourabhpatne@gmail.com?subject=Let's%20Collaborate"
 
 const navLinks = [
