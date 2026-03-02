@@ -3,46 +3,39 @@ import { FaXTwitter, FaGithub, FaDiscord } from "react-icons/fa6"
 import { SiBluesky } from "react-icons/si"
 
 const gruzImage = "/assets/Images/pfps/gruz.jpeg"
-const gruzName = "Gruz"
+const gruzName = "Sourabh"
 const gruzAbout = `
   <p>
-    Hey, I'm Gruz, a full-stack developer with OCPD. I love building things that people genuinely use and love, not just for showcases (like the typical engineer).
+    Hey, I'm Sourabh, a learner from Earth who's not cracked yet but soon to be one, cuz why not.
   </p>
   <p>
-    Besides programming, I'm a volleyball player who loves football. I also enjoy playing video games, mostly FIFA and Valorant in my free time.
+    I'm passionate about building cool projects and learning new technologies. Currently working with HTML, CSS, Tailwind, and JavaScript.
   </p>
   <p>
-    If you have an idea and would like to collaborate, feel free to DM me! I'm always open and ready to connect and work on exciting projects. Also, be sure to check out my other side, just click on the navbar image!
+    If you have an idea and would like to collaborate, feel free to reach out! I'm always open and ready to connect and work on exciting projects.
   </p>
 `
 
-const gruzBio = "Autistic with OCPD"
+const gruzBio = "Still Learning"
 
 const gruzLink = [
   {
     id: 1,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/SourabhX16",
     icon: FaGithub,
   },
-
   {
     id: 2,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/sourabhX16",
     icon: FaXTwitter,
   },
   {
     id: 3,
-    name: "Discord",
-    link: "https://discord.gg/JgcDzHpWum",
-    icon: FaDiscord,
-  },
-  {
-    id: 4,
-    name: "BuyMeACoffee",
-    link: "https://buymeacoffee.com/rinkitadhana",
-    icon: SiBuymeacoffee,
+    name: "LinkedIn",
+    link: "https://linkedin.com/in/sourabh-patne-2385733a3",
+    icon: FaXTwitter,
   },
 ]
 
@@ -50,50 +43,37 @@ const gruzFooterLink = [
   {
     id: 1,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/SourabhX16",
     icon: FaGithub,
   },
-
   {
     id: 2,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/sourabhX16",
     icon: FaXTwitter,
   },
   {
     id: 3,
-    name: "Discord",
-    link: "https://discord.gg/JgcDzHpWum",
-    icon: FaDiscord,
-  },
-  {
-    id: 4,
-    name: "BuyCoffee",
-    link: "https://buymeacoffee.com/damngruz",
-    icon: SiBuymeacoffee,
-  },
-  {
-    id: 5,
-    name: "Bluesky",
-    link: "https://bsky.app/profile/damngruz.bsky.social",
-    icon: SiBluesky,
+    name: "LinkedIn",
+    link: "https://linkedin.com/in/sourabh-patne-2385733a3",
+    icon: FaXTwitter,
   },
 ]
 
 const gruzContact =
-  "Most of the time, you'll find me hanging out on my Discord channel while coding. I'm also super active on X, so feel free to DM me there!"
+  "Feel free to reach out via email or connect with me on GitHub and LinkedIn!"
 const gruzContactLink = [
   {
     id: 1,
-    name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
-    icon: FaXTwitter,
+    name: "Email",
+    link: "mailto:sourabhpatne@gmail.com",
+    icon: FaGithub,
   },
   {
     id: 2,
-    name: "Discord",
-    link: "https://discord.gg/JgcDzHpWum",
-    icon: FaDiscord,
+    name: "Github",
+    link: "https://github.com/SourabhX16",
+    icon: FaGithub,
   },
 ]
 
