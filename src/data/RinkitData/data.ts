@@ -7,18 +7,18 @@ import { MdOutlineMail } from "react-icons/md"
 import { SiBluesky } from "react-icons/si"
 
 const rinkitImage = "/assets/Images/pfps/mark.jpeg"
-const rinkitName = "Rinkit Adhana"
-const rinkitShortName = "Rinkit"
-const rinkitBio = "Software Engineer"
+const rinkitName = "Sourabh Patne"
+const rinkitShortName = "Sourabh"
+const rinkitBio = "Learner"
 const rinkitAbout = `
   <p>
-    Hey! I'm Rinkit Adhana, an undergraduate computer science student and full-stack developer who loves turning ideas into real, working products.
+    Hey! I'm Sourabh Patne, not a cracked one yet but soon to be one, cuz why not.
   </p>
   <p>
-    I'm flexible working with any tech stack, though I prefer modern tools. I'm currently working with Next.js, Django, Express, and TypeScript.
+    Currently learning and building cool stuff with HTML, CSS, Tailwind, and JavaScript. Always exploring new technologies and working on exciting projects.
   </p>
   <p>
-    I love contributing to open-source projects and have actively participated in multiple hackathons, where I collaborate, build, and solve real-world problems.
+    I love collaborating on projects and turning ideas into reality. Check out my work and let's build something awesome together!
   </p>
 `
 
@@ -26,52 +26,43 @@ const rinkitLink = [
   {
     id: 1,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/SourabhX16",
     icon: FaGithub,
   },
-
   {
     id: 2,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/sourabhX16",
     icon: FaXTwitter,
   },
-
   {
     id: 3,
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rinkitadhana",
+    link: "https://linkedin.com/in/sourabh-patne-2385733a3",
     icon: FaLinkedinIn,
-  },
-
-  {
-    id: 4,
-    name: "LeetCode",
-    link: "https://leetcode.com/u/rinkitadhana",
-    icon: SiLeetcode,
   },
 ]
 
 const rinkitContact =
-  "Most of the time, you'll find me hanging out on my Discord channel while coding. I'm also super active on X, so feel free to DM me there or reach out to me via email if you have any queries."
+  "Feel free to reach out to me via email or connect with me on GitHub and LinkedIn. Always open to collaborating on interesting projects!"
 const rinkitContactLink = [
   {
     id: 1,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/sourabhX16",
     icon: FaXTwitter,
   },
   {
     id: 2,
-    name: "Discord",
-    link: "https://discord.gg/JgcDzHpWum",
-    icon: FaDiscord,
+    name: "Email",
+    link: "mailto:sourabhpatne@gmail.com",
+    icon: MdOutlineMail,
   },
   {
     id: 3,
-    name: "Email",
-    link: "mailto:therinkit@gmail.com",
-    icon: MdOutlineMail,
+    name: "Github",
+    link: "https://github.com/SourabhX16",
+    icon: FaGithub,
   },
 ]
 
@@ -79,45 +70,26 @@ const rinkitFooterLink = [
   {
     id: 1,
     name: "Mail",
-    link: "mailto:therinkit@gmail.com",
+    link: "mailto:sourabhpatne@gmail.com",
     icon: MdOutlineMail,
   },
   {
     id: 2,
     name: "Github",
-    link: "https://github.com/rinkitadhana",
+    link: "https://github.com/SourabhX16",
     icon: FaGithub,
   },
-
   {
     id: 3,
     name: "Twitter",
-    link: "https://x.com/intent/follow?screen_name=damnGruz",
+    link: "https://x.com/sourabhX16",
     icon: FaXTwitter,
   },
   {
     id: 4,
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rinkitadhana",
+    link: "https://linkedin.com/in/sourabh-patne-2385733a3",
     icon: FaLinkedinIn,
-  },
-  {
-    id: 5,
-    name: "LeetCode",
-    link: "https://leetcode.com/u/rinkitadhana",
-    icon: SiLeetcode,
-  },
-  // {
-  //   id: 6,
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/rnkktt",
-  //   icon: FaInstagram,
-  // },
-  {
-    id: 6,
-    name: "Bluesky",
-    link: "https://bsky.app/profile/damngruz.bsky.social",
-    icon: SiBluesky,
   },
 ]
 
