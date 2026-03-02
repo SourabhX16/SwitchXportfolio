@@ -122,33 +122,15 @@ const emailLink = "mailto:sourabhpatne@gmail.com?subject=Let's%20Collaborate"
 const navLinks = [
   {
     id: 1,
-    name: "Lab",
-    link: "/lab",
-    icon: ImLab,
+    name: "GitHub",
+    link: "https://github.com/SourabhX16",
+    icon: FaGithub,
   },
   {
     id: 2,
-    name: "Medium",
-    link: "https://medium.com/@rinkitadhana",
-    icon: FaMediumM,
-  },
-  {
-    id: 3,
-    name: "Behance",
-    link: "https://www.behance.net/rinkitadhana",
-    icon: SiBehance,
-  },
-  {
-    id: 4,
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/rinkitadhana",
+    link: "https://linkedin.com/in/sourabh-patne-2385733a3",
     icon: FaLinkedinIn,
-  },
-  {
-    id: 5,
-    name: "LeetCode",
-    link: "https://leetcode.com/u/rinkitadhana",
-    icon: SiLeetcode,
   },
 ]
 
